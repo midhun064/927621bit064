@@ -1,0 +1,43 @@
+.Index {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+.products {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.product {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 10px;
+  width: 200px;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+input[type="number"] {
+  width: 70px;
+}
+
+label {
+  margin-right: 10px;
+}
