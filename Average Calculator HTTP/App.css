@@ -1,0 +1,22 @@
+.App {
+    text-align: center;
+  }
+  
+  select {
+    margin: 10px;
+  }
+  
+  button {
+    margin: 10px;
+  }
+  
+  div {
+    margin-top: 20px;
+  }
+  
+  p {
+    text-align: left;
+    margin-left: 20%;
+    margin-right: 20%;
+  }
+  
